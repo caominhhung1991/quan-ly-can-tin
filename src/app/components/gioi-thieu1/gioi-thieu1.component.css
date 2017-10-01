@@ -1,0 +1,27 @@
+.gioi-thieu {
+    /* display: flex;
+    flex-flow: row wrap; */
+}
+
+.left {
+}
+
+.left img {
+    width: 100%;
+}
+
+.right {
+    padding: 35px;
+    padding-bottom: 0;
+    padding-left: 50px;
+    padding-right: 90px;
+}
+
+.the-border-bottom {
+    width: 60px;
+    height: 8px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+}

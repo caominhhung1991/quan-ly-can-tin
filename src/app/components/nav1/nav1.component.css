@@ -1,0 +1,34 @@
+
+nav {
+	height: 90px;
+	font-family: 'Roboto'; 
+	background-color: white;
+}
+.navbar-brand img {
+	width: 150px;
+}
+.navbar-toggler-icon {
+	color: white !important;
+}
+
+.nav-link {
+	font-weight: 500;
+}
+
+.nav-link:hover {
+}
+
+.social-icon i {
+	font-size: 20px;
+	color: lightgray;
+}
+
+.social-icon i:hover {
+	color: gray;
+}
+
+@media only screen and (max-width: 760px) {
+	nav {
+		height: auto;
+	}
+}
