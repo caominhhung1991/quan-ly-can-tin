@@ -32,3 +32,20 @@ nav {
 		height: auto;
 	}
 }
+
+.active {
+	/* background: #136C37;
+	color: white !important; */
+}
+
+.nav-link {
+	transition: 0.1s ease-in;
+	margin-right: 2px;
+	font-weight: bold;
+}
+
+.nav-link:hover {
+	background: #3CAF6A;
+	color: white !important;
+	
+}

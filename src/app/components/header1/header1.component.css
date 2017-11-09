@@ -8,9 +8,10 @@
 }
 
 .cantin-1 h1 {
-    width: 450px;
+    width: 600px;
     margin: auto;
     line-height: 49px;
+    /* font-family: 'lobster'; */
 }
 
 .cantin-1 .border-bottom {
